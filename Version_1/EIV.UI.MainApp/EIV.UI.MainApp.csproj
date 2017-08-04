@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87CA31C4-2BF2-43B7-9F83-48F853BFD99E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EIV.UI.MainApp</RootNamespace>
+    <AssemblyName>EIV.UI.MainApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Data">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Controls.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.GridView">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Controls.GridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Input">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Controls.Input.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Navigation">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Controls.Navigation.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Data">
+      <HintPath>D:\Program Files (x86)\Telerik\UI for WPF R1 2017\Binaries\WPF45\Telerik.Windows.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MenuItem.cs" />
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="View\LoginView.xaml.cs">
+      <DependentUpon>LoginView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="MenuData\mutual_main_menu.json" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\all_categories.png" />
+    <Resource Include="Images\blue_category.png" />
+    <Resource Include="Images\Categorize.png" />
+    <Resource Include="Images\complete.png" />
+    <Resource Include="Images\Discard.png" />
+    <Resource Include="Images\email_16x16.png" />
+    <Resource Include="Images\FollowUp.png" />
+    <Resource Include="Images\Forward.png" />
+    <Resource Include="Images\green_category.png" />
+    <Resource Include="Images\Icon.ico" />
+    <Resource Include="Images\mail_32x32.png" />
+    <Resource Include="Images\NewEmail.png" />
+    <Resource Include="Images\Popout.png" />
+    <Resource Include="Images\ReadUnread.png" />
+    <Resource Include="Images\red_category.png" />
+    <Resource Include="Images\reminder.png" />
+    <Resource Include="Images\Reply.png" />
+    <Resource Include="Images\ReplyAll.png" />
+    <Resource Include="Images\today.png" />
+    <Resource Include="Images\tomorrow.png" />
+    <Resource Include="Images\Undo.png" />
+    <Resource Include="Images\week.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MenuImages\boss.png" />
+    <Resource Include="MenuImages\box.png" />
+    <Resource Include="MenuImages\boxl.png" />
+    <Resource Include="MenuImages\bug.png" />
+    <Resource Include="MenuImages\bugl.png" />
+    <Resource Include="MenuImages\Dark64.png" />
+    <Resource Include="MenuImages\Help.png" />
+    <Resource Include="MenuImages\helpl.png" />
+    <Resource Include="MenuImages\logo.png" />
+    <Resource Include="MenuImages\org.png" />
+    <Resource Include="MenuImages\orgl.png" />
+    <Resource Include="MenuImages\save.png" />
+    <Resource Include="MenuImages\savel.png" />
+    <Resource Include="MenuImages\Seamless-Polygon-Backgrounds-Vol2-full.jpg" />
+    <Resource Include="MenuImages\times.png" />
+    <Resource Include="MenuImages\timesl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EIV.SlideMenu\EIV.SlideMenu.csproj">
+      <Project>{6b20e5fe-1312-4730-80fc-88fe6d0f1ce2}</Project>
+      <Name>EIV.SlideMenu</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EIV.UI.ServiceContext\EIV.UI.ServiceContext.csproj">
+      <Project>{46AD9F9A-4443-43AA-B5A5-FF49A36EFC88}</Project>
+      <Name>EIV.UI.ServiceContext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EIV.UI.UserControlBase\EIV.UI.UserControlBase.csproj">
+      <Project>{8b02af7d-c131-4c72-a1ea-45f2a5e1e11a}</Project>
+      <Name>EIV.UI.UserControlBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModel\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

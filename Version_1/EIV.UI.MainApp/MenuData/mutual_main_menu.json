@@ -1,0 +1,3740 @@
+[
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":1,
+      "nombre_menu":"subSistema",
+      "etiqueta":"Sistema"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":2,
+      "nombre_menu":"subSeguridad",
+      "etiqueta":"Seguridad"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":3,
+      "nombre_menu":"subPersonas",
+      "etiqueta":"Personas"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":4,
+      "nombre_menu":"subPrestamos",
+      "etiqueta":"Préstamos"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":5,
+      "nombre_menu":"subPPIPV",
+      "etiqueta":"Préstamos de pago íntegro con prenda de valores"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":6,
+      "nombre_menu":"subCuentaCorriente",
+      "etiqueta":"Cuentas a la vista"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":7,
+      "nombre_menu":"subPlazoFijo",
+      "etiqueta":"Plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":8,
+      "nombre_menu":"subCaja",
+      "etiqueta":"Caja"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":9,
+      "nombre_menu":"subTransacciones",
+      "etiqueta":"Transacciones"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":10,
+      "nombre_menu":"subAgenda",
+      "etiqueta":"Agenda"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":11,
+      "nombre_menu":"subBancosCheques",
+      "etiqueta":"Cheques y bancos"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":12,
+      "nombre_menu":"subVentaCartera",
+      "etiqueta":"Venta de cartera"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":13,
+      "nombre_menu":"subGarantiasBienes",
+      "etiqueta":"Garantías y bienes"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":14,
+      "nombre_menu":"subContabilidad",
+      "etiqueta":"Contabilidad"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":16,
+      "nombre_menu":"subBienesUso",
+      "etiqueta":"Bienes de uso"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":17,
+      "nombre_menu":"subTarjetas",
+      "etiqueta":"Tarjetas"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":18,
+      "nombre_menu":"subServicios",
+      "etiqueta":"Servicios"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":19,
+      "nombre_menu":"subFideicomiso",
+      "etiqueta":"Fideicomiso"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":20,
+      "nombre_menu":"subArchivos",
+      "etiqueta":"Administración de archivos"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":21,
+      "nombre_menu":"subAnalisisGestion",
+      "etiqueta":"Análisis de gestión"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":22,
+      "nombre_menu":"subConsolidacion",
+      "etiqueta":"Consolidación"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":23,
+      "nombre_menu":"subMora",
+      "etiqueta":"Gestión de mora"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":24,
+      "nombre_menu":"subVendedores",
+      "etiqueta":"Vendedores"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":26,
+      "nombre_menu":"subNichos",
+      "etiqueta":"Administración de nichos"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":28,
+      "nombre_menu":"mainCtaCteProv",
+      "etiqueta":"Cuentas Corrientes Proveedores"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":29,
+      "nombre_menu":"mainCtaCteCli",
+      "etiqueta":"Cuentas Corrientes Clientes"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":30,
+      "nombre_menu":"mainCompras",
+      "etiqueta":"Compras de artículos y servicios"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":31,
+      "nombre_menu":"mainVentas",
+      "etiqueta":"Ventas de artículos y servicios"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":32,
+      "nombre_menu":"subArticulos",
+      "etiqueta":"Adminitración de artículos"
+   },
+   {
+      "nombre_menu_padre":"Main",
+      "orden_menu":33,
+      "nombre_menu":"mainAdminProv",
+      "etiqueta":"Adminitración Proveeduría"
+   },
+   {
+      "nombre_menu_padre":"mainAdminProv",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmReimpresionComprobantes",
+      "etiqueta":"Reimpresión de Comprobantes"
+   },
+   {
+      "nombre_menu_padre":"mainCompras",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmingresoStock",
+      "etiqueta":"Ingreso de Artículos"
+   },
+   {
+      "nombre_menu_padre":"mainCompras",
+      "orden_menu":1,
+      "nombre_menu":"subOrdenLicita",
+      "etiqueta":"Órdenes de compra y licitaciones"
+   },
+   {
+      "nombre_menu_padre":"mainCompras",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmseriespendientes",
+      "etiqueta":"Asignación de números de Series"
+   },
+   {
+      "nombre_menu_padre":"mainCompras",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmajustes",
+      "etiqueta":"Ajustes"
+   },
+   {
+      "nombre_menu_padre":"mainCompras",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmmovimcontenedores",
+      "etiqueta":"Administración Movimientos de Contenedores "
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCambioValorCliente",
+      "etiqueta":"Cambio de valores de clientes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmConsultaCuentaCorriente",
+      "etiqueta":"Consulta cuentas de clientes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":3,
+      "nombre_menu":"mnuMaeCuentas",
+      "etiqueta":"ABM de Cuentas de Clientes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmImputacionPago",
+      "etiqueta":"Imputación pagos de clientes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmMovimientoCuentaCorriente",
+      "etiqueta":"Movimientos cuenta corriente clientes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteCli",
+      "orden_menu":999,
+      "nombre_menu":"subLstCtaCteCli",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCambioValorProveedor",
+      "etiqueta":"Cambio de valores de proveedores"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmConsultaCtaCteProveedores",
+      "etiqueta":"Consulta cuentas de proveedores"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":3,
+      "nombre_menu":"mnuMaeCuentasProv",
+      "etiqueta":"ABM de Cuentas de Proveedores"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmImputacionPagosProveedor",
+      "etiqueta":"Imputación pagos de proveedores"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmMovimientoCtaCteProveedores",
+      "etiqueta":"Movimientos cuenta corriente proveedores"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmOrdenPago",
+      "etiqueta":"Orden de pago"
+   },
+   {
+      "nombre_menu_padre":"mainCtaCteProv",
+      "orden_menu":999,
+      "nombre_menu":"subLstCtaCteProv",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"mainVentas",
+      "orden_menu":999,
+      "nombre_menu":"subReportesVentas",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"mnufrmBienesdeuso",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmInventario",
+      "etiqueta":"Inventario"
+   },
+   {
+      "nombre_menu_padre":"mnufrmIngresoPersona",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmmIngresoDomicilio",
+      "etiqueta":"Ingreso de domicilio"
+   },
+   {
+      "nombre_menu_padre":"mnufrmIngresoPersona",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTelefonoPersona",
+      "etiqueta":"Ingreso de medio de comunicación"
+   },
+   {
+      "nombre_menu_padre":"mnufrmIngresoPersona",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmIngresoUsuario",
+      "etiqueta":"Usuarios"
+   },
+   {
+      "nombre_menu_padre":"subAgenda",
+      "orden_menu":1,
+      "nombre_menu":"mnuFrmAgenda",
+      "etiqueta":"Agenda"
+   },
+   {
+      "nombre_menu_padre":"subAgenda",
+      "orden_menu":999,
+      "nombre_menu":"subAgendaPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subAgendaPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmAgendaOper",
+      "etiqueta":"Configuración de agenda"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestion",
+      "orden_menu":100,
+      "nombre_menu":"subAnalisisGestionDep",
+      "etiqueta":"Depósitos"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestion",
+      "orden_menu":101,
+      "nombre_menu":"subAnalisisGestionInt",
+      "etiqueta":"Intereses"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestion",
+      "orden_menu":102,
+      "nombre_menu":"subAnalisisGestionPre",
+      "etiqueta":"Préstamos"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestion",
+      "orden_menu":103,
+      "nombre_menu":"subAnalisisGestionVal",
+      "etiqueta":"Valores"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionDep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>DepositoSucursales",
+      "etiqueta":"Operaciones de plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionInt",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>EvolucionInteresesTotal",
+      "etiqueta":"Evolución de interes en totales"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionInt",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>EvolucionInteresesPrestamo",
+      "etiqueta":"Evolución de interes en préstamos"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionInt",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>EvolucionInteresesPagoIntegro",
+      "etiqueta":"Evolución de interes en plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionInt",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>InteresesSucursalMeses",
+      "etiqueta":"Variación de interes de dos períodos"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionPre",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>EvolucionPrestamosSucursales",
+      "etiqueta":"Evolución de préstamos por sucursal"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionPre",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>EvolucionPrestamosOperatorias",
+      "etiqueta":"Evolución de préstamos por operatoria"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionPre",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptCuotasVencidas",
+      "etiqueta":"Análisis de cuotas vencidas"
+   },
+   {
+      "nombre_menu_padre":"subAnalisisGestionVal",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>AnalisisVencimientoValores",
+      "etiqueta":"Análisis de vencimientos de valores"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLecturaArchivosTarjeta",
+      "etiqueta":"Lectura de archivos"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmLiquidarCuotasAnses",
+      "etiqueta":"Imputación de cuotas masivo"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmTarjArchivoSalida",
+      "etiqueta":"Archivos de salida"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":99,
+      "nombre_menu":"subArchivosRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":100,
+      "nombre_menu":"subArchivosPre",
+      "etiqueta":"Préstamos"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":101,
+      "nombre_menu":"subArchivosCta",
+      "etiqueta":"Cuenta a la vista"
+   },
+   {
+      "nombre_menu_padre":"subArchivos",
+      "orden_menu":999,
+      "nombre_menu":"subArchivosPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subArchivosCta",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmImportacionChequesDep",
+      "etiqueta":"Importación de cheques depositados"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPre",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmEmisionCuotasPrestamo",
+      "etiqueta":"Emision de archivos de cuotas "
+   },
+   {
+      "nombre_menu_padre":"subArchivosPre",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmImputarCobranzaArchivo",
+      "etiqueta":"Imputación indirecta de archivos de cuotas"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnuFrmTarjetasArchivo",
+      "etiqueta":"Formatos de archivos"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTarjetasArchivoGrupos",
+      "etiqueta":"Grupos de archivos"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmBeneficioTitulares",
+      "etiqueta":"Titular del beneficio"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmBeneficioCaja",
+      "etiqueta":"Caja del beneficio"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmFechaProceso",
+      "etiqueta":"Fechas para proceso de archivos"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmLinIncremento",
+      "etiqueta":"Líneas de incremento de capital"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnuFrmBeneficioTipo",
+      "etiqueta":"Tipos de beneficio"
+   },
+   {
+      "nombre_menu_padre":"subArchivosPrm",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmBCRA_Tipo_Codigo",
+      "etiqueta":"Valores de referencia"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptArchivoCuotasReales",
+      "etiqueta":"Archivo de cuotas reales"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptArchivoCuotasTeoricas",
+      "etiqueta":"Archivo de cuotas teóricas"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptArchivoDeCreditos",
+      "etiqueta":"Archivo de creditos"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>rptCuotasCobradasPorFecha",
+      "etiqueta":"Cuotas cobradas por fecha"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>rptPrestamosCancelados",
+      "etiqueta":"Préstamos cancelados"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>rptNoVinieronAnses",
+      "etiqueta":"Préstamos faltantes en archivo"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>rptSegurosNoVinieronAnses",
+      "etiqueta":"Servicios faltantes en archivo"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>rptSaldoDesdeHasta",
+      "etiqueta":"Saldos entre fechas"
+   },
+   {
+      "nombre_menu_padre":"subArchivosRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>rptDeudaSaldoPersona",
+      "etiqueta":"Saldos de capital por fecha "
+   },
+   {
+      "nombre_menu_padre":"subArticulos",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmArticulo",
+      "etiqueta":"Administración de artículos"
+   },
+   {
+      "nombre_menu_padre":"subArticulos",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCargaRapArticulo",
+      "etiqueta":"Carga rápida"
+   },
+   {
+      "nombre_menu_padre":"subArticulos",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTransferenciaIngreso",
+      "etiqueta":"Ingreso de Transferencia entre Depósitos "
+   },
+   {
+      "nombre_menu_padre":"subArticulos",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmTransferenciaEgreso",
+      "etiqueta":"Egreso de Transferencia entre Depósitos "
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmMovCtaBanco",
+      "etiqueta":"Movimientos de cuenta bancaria"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmBancos_Oper",
+      "etiqueta":"Cuentas bancarias"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmConciliacionBancaria",
+      "etiqueta":"Conciliación bancaria automática"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmDepositoCheques",
+      "etiqueta":"Depósito de cheques"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmRetencionValores",
+      "etiqueta":"Gestión de valores"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmCUIT_INFO",
+      "etiqueta":"Información de firmantes de valores"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmCambioCheque",
+      "etiqueta":"Modificación de datos de cheques"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":8,
+      "nombre_menu":"mnuPA_ARMAR_RELACIONES_CHEQUES",
+      "etiqueta":"Proceso de armado de relaciones de cheques"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmLimitesCheques",
+      "etiqueta":"Límites de valores"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":10,
+      "nombre_menu":"mnufrmSolicitudChequera",
+      "etiqueta":"Solicitud de chequera"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":11,
+      "nombre_menu":"mnufrmPreprocesoDebito",
+      "etiqueta":"Preproceso de débito"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":12,
+      "nombre_menu":"mnufrmGestionChequeCtaVista",
+      "etiqueta":"Gestión de cheques en cuenta a la vista"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":13,
+      "nombre_menu":"mnufrmGestionChequeRechazadoCtaVista",
+      "etiqueta":"Gestión de cheques rechazados en cuenta a la vista"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":99,
+      "nombre_menu":"subBancosChequesRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subBancosCheques",
+      "orden_menu":999,
+      "nombre_menu":"subBancosChequesPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmChequesCausasRechazos",
+      "etiqueta":"Causas de devolución de valores"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmGestionDeBancos",
+      "etiqueta":"Gestión de bancos"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmConciliacionParam",
+      "etiqueta":"Conciliación bancaria"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmValorCobPlazo",
+      "etiqueta":"Plazos de cámara"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmDeposito",
+      "etiqueta":"Tipos de depósito"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":6,
+      "nombre_menu":"mnuFrmCausas",
+      "etiqueta":"Causas de devolución"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmChequerasImprenta",
+      "etiqueta":"Asignación de chequeras a imprenta"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmChequeraTipo",
+      "etiqueta":"Tipos de chequera"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmChequesCausaAdeudamiento",
+      "etiqueta":"Causas de cheques a no pagar"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesPrm",
+      "orden_menu":10,
+      "nombre_menu":"mnufrmChequesTipo",
+      "etiqueta":"Tipos de cheque"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>repChequesPorEstadoPorTitularDeCuenta",
+      "etiqueta":"Cheques por estado y titular de la cuenta"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>repChequesporTitulardeCuenta",
+      "etiqueta":"Cheques por titular de la cuenta"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>ListadoTotalesPorTitular",
+      "etiqueta":"Sumatoria de valores por titular"
+   },
+   {
+      "nombre_menu_padre":"subBancosChequesRep",
+      "orden_menu":15,
+      "nombre_menu":"<reporte>rptListadoChequesRelOper",
+      "etiqueta":"Cheques relacionados a operaciones"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmBienesdeuso",
+      "etiqueta":"Alta de inventario"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmBajaBsUso",
+      "etiqueta":"Baja de inventario"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmRevaluo",
+      "etiqueta":"Revalúos"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmTranslado",
+      "etiqueta":"Traslados"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":99,
+      "nombre_menu":"subBienesUsoRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subBienesUso",
+      "orden_menu":999,
+      "nombre_menu":"subBienesUsoPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subBienesUsoPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmTiposdeBienesdeUso",
+      "etiqueta":"Tipos de bienes de uso"
+   },
+   {
+      "nombre_menu_padre":"subBienesUsoPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmBienesdeUsoTipoRev",
+      "etiqueta":"Tipos de revalúo de bienes"
+   },
+   {
+      "nombre_menu_padre":"subBienesUsoRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>Inventario",
+      "etiqueta":"Inventario"
+   },
+   {
+      "nombre_menu_padre":"subBienesUsoRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>BienesRevaluos",
+      "etiqueta":"Revalúos y amortizaciones"
+   },
+   {
+      "nombre_menu_padre":"subBienesUsoRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>BienesRevCompara",
+      "etiqueta":"Comparativo de revalúos y amortizaciones"
+   },
+   {
+      "nombre_menu_padre":"subCaja",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCaja",
+      "etiqueta":"Caja"
+   },
+   {
+      "nombre_menu_padre":"subCaja",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmInicioCaja",
+      "etiqueta":"Inicio de cajas"
+   },
+   {
+      "nombre_menu_padre":"subCaja",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCierreCaja",
+      "etiqueta":"Cierre de cajas"
+   },
+   {
+      "nombre_menu_padre":"subCaja",
+      "orden_menu":99,
+      "nombre_menu":"subCajaRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subCaja",
+      "orden_menu":999,
+      "nombre_menu":"subCajaPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subCajaPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmConfiguraciones",
+      "etiqueta":"Configuración de estaciones de caja"
+   },
+   {
+      "nombre_menu_padre":"subCajaPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnuConfiguracionImpresora",
+      "etiqueta":"Configuración de impresoras"
+   },
+   {
+      "nombre_menu_padre":"subCajaRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptSaldosCajas",
+      "etiqueta":"Saldos de caja"
+   },
+   {
+      "nombre_menu_padre":"subCajaRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>rptListadoMovCajaCentroEmisor",
+      "etiqueta":"Listado de Movimientos de Caja - Centro Emisor"
+   },
+   {
+      "nombre_menu_padre":"subConsolidacion",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmConsolidaSucursales",
+      "etiqueta":"Consolidación de sucursales"
+   },
+   {
+      "nombre_menu_padre":"subConsolidacion",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmEnvioReplica",
+      "etiqueta":"Envío y recepción de datos de sucursales"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmingresoasiento",
+      "etiqueta":"Ingreso de asientos manuales"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":2,
+      "nombre_menu":"mnubchbatch_LogOperativo",
+      "etiqueta":"Paso de las operaciones a contabilidad"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCo_Ing_Oper",
+      "etiqueta":"Movimientos contables parametrizados"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmCtasAjuste",
+      "etiqueta":"Ajustes por inflación"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmProcAjuste",
+      "etiqueta":"Aplicar ajuste por inflación"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmAjusteCtasConversion",
+      "etiqueta":"Ajuste de cuentas de conversión"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":7,
+      "nombre_menu":"mnuDevengamientos",
+      "etiqueta":"Procesos de devengamiento"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmCierreEjercicio",
+      "etiqueta":"Proceso de cierre de ejercicio"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":9,
+      "nombre_menu":"mnuMandarInformacion",
+      "etiqueta":"Mandar información"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":10,
+      "nombre_menu":"mnuRecibirInformacion",
+      "etiqueta":"Recibir información"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":11,
+      "nombre_menu":"mnufrmSalidaInforme",
+      "etiqueta":"Salida de informes contables a planillas excel"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":12,
+      "nombre_menu":"mnufrmRutinaCalcA",
+      "etiqueta":"Conversiones de tasas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":99,
+      "nombre_menu":"subContabilidadRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subContabilidad",
+      "orden_menu":999,
+      "nombre_menu":"subContabilidadPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmPlandeCuentas",
+      "etiqueta":"Plan de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCo_ordencont",
+      "etiqueta":"Creación de asientos automáticos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCo_AsientosPre",
+      "etiqueta":"Creación de asientos predeterminados"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmProcesos",
+      "etiqueta":"Administración de procesos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmInformes",
+      "etiqueta":"Parametrización de informes a planillas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmCartera",
+      "etiqueta":"Cartera"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmEjercicios",
+      "etiqueta":"Ejercicios"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmmonedarubro",
+      "etiqueta":"Moneda Residencia"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmRPC",
+      "etiqueta":"Responsabilidad patrimonial computada"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":10,
+      "nombre_menu":"mnufrmrubroscontables",
+      "etiqueta":"Rubros contables"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":11,
+      "nombre_menu":"mnufrmsectoresmoneda",
+      "etiqueta":"Departamento ó sector"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadPrm",
+      "orden_menu":12,
+      "nombre_menu":"mnufrmCoParametros",
+      "etiqueta":"Parámetros contables generales"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>Plan_de_Cuentas",
+      "etiqueta":"Plan de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>PlanDeCuentasDetallado",
+      "etiqueta":"Plan de cuentas detallado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>MayorDeCuentasImputables",
+      "etiqueta":"Mayor de cuentas imputable"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>MayorDeCuentasImputablesDetallado",
+      "etiqueta":"Mayor de cuentas imputable detallado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>BalanceDeCuentas",
+      "etiqueta":"Banlance de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>BalanceSaldosComparativo",
+      "etiqueta":"Balance comparativo de saldos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>BalanceDeCuentasProm",
+      "etiqueta":"Balance de saldos con promedio mensual"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>rptBalanceSumasySaldos",
+      "etiqueta":"Balance histórico de sumas y saldos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>SaldoDeCuentasInventario",
+      "etiqueta":"Balance de inventario"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":10,
+      "nombre_menu":"<reporte>MayorDeSaldosContables",
+      "etiqueta":"Mayor de saldos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":11,
+      "nombre_menu":"<reporte>MovimientoCtaContablexServicio",
+      "etiqueta":"Minutas contables"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":12,
+      "nombre_menu":"<reporte>SaldosDiarios",
+      "etiqueta":"Saldos diarios"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":13,
+      "nombre_menu":"<reporte>ListadoPartidas",
+      "etiqueta":"Partidas corrientes y no corrientes"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":14,
+      "nombre_menu":"mnufrmInformacionesAFIP",
+      "etiqueta":"Sujetos y percepciones para AFIP"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":15,
+      "nombre_menu":"<reporte>MayorDeCuentas",
+      "etiqueta":"Saldos de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":16,
+      "nombre_menu":"<reporte>MayorDeCuentasPorServicio",
+      "etiqueta":"Saldos de cuentas por servicio"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":17,
+      "nombre_menu":"<reporte>SaldosDeCtasCorrienteNoCorriente",
+      "etiqueta":"Saldos de cuentas por tipo de partida, corrientes y no corrientes"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":18,
+      "nombre_menu":"<reporte>AsientosContables",
+      "etiqueta":"Asientos contables automáticos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":19,
+      "nombre_menu":"<reporte>Capitulocontable",
+      "etiqueta":"Capítulos contables"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":20,
+      "nombre_menu":"<reporte>rubroscontables",
+      "etiqueta":"Rubros contables"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":21,
+      "nombre_menu":"<reporte>LibroIvaVentas",
+      "etiqueta":"Libro de IVA ventas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":22,
+      "nombre_menu":"<reporte>LibroIvaCompras",
+      "etiqueta":"Libro de IVA compras"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":23,
+      "nombre_menu":"<reporte>ListadoTribCreditosxSucursal",
+      "etiqueta":"Tributos créditos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":24,
+      "nombre_menu":"<reporte>ListadoTribDebitosXSucursal",
+      "etiqueta":"Tributos débitos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":27,
+      "nombre_menu":"<reporte>MinutaContablePorTransaccion",
+      "etiqueta":"Detalle de movimientos diarios"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":30,
+      "nombre_menu":"<reporte>OperacionesAsientosContables",
+      "etiqueta":"Operaciones y asientos automáticos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":31,
+      "nombre_menu":"<reporte>rptMovimientosContablesMensual",
+      "etiqueta":"Movimientos contables mensual"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":100,
+      "nombre_menu":"subContabilidadRepInaes",
+      "etiqueta":"INAES"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":101,
+      "nombre_menu":"subContabilidadRepConsolidado",
+      "etiqueta":"Informes consolidados"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":400,
+      "nombre_menu":"<reporte>ConciliacionCuentasCarteras",
+      "etiqueta":"Conciliación de carteras con contabilidad"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRep",
+      "orden_menu":400,
+      "nombre_menu":"mnurptRendicion",
+      "etiqueta":"Informe de Rendición"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>LibroDiarioOperacionesCentralizado",
+      "etiqueta":"Diario general consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>MayorDeCuentasImputablesCentralizado",
+      "etiqueta":"Libro general consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptBalanceSumasySaldosConsolidado",
+      "etiqueta":"Balance histórico de sumas y saldos consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>SaldosDeCuentasCentralizadoInv",
+      "etiqueta":"Balance de inventario consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>MinutaContableCentralizada",
+      "etiqueta":"Minuta contable consolidada"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>SaldosDeCuentasCentralizado",
+      "etiqueta":"Saldos de cuentas consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":100,
+      "nombre_menu":"subContabilidadRepConsolidadoIMP",
+      "etiqueta":"Matriz de puntos"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidado",
+      "orden_menu":101,
+      "nombre_menu":"subContabilidadRepConsolidadoHPR",
+      "etiqueta":"Hojas pre-impresas rubricadas"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoHPR",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>DiarioGeneralRub",
+      "etiqueta":"Diario general consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoHPR",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>LibroGeneralRub",
+      "etiqueta":"Libro general consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoHPR",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptPaginaBlancoA4V",
+      "etiqueta":"Hoja A4 vertical"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoHPR",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>rptPaginaBlancoA4H",
+      "etiqueta":"Hoja A4 horizontal"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoHPR",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>rptPaginaBlancoLegalH",
+      "etiqueta":"Hoja oficio horizontal"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepConsolidadoIMP",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>MayorDeCuentasImputablesCentralizadoMP",
+      "etiqueta":"Mayor de cuentas imputable consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptPrevisionesINAES",
+      "etiqueta":"Previsiones"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptPrevisionesINAESDetallado",
+      "etiqueta":"Previsiones detallado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptPrevisionesINAESCons",
+      "etiqueta":"Previsiones consolidado"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>INACYM-Situacion_Deudores",
+      "etiqueta":"Situación de deudores"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":4,
+      "nombre_menu":"mnurptinacymsitdeudores",
+      "etiqueta":"Situación de deudores"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>INACYM-Volumen_Operativo",
+      "etiqueta":"Volumen operativo"
+   },
+   {
+      "nombre_menu_padre":"subContabilidadRepInaes",
+      "orden_menu":999,
+      "nombre_menu":"mnurptinacymvoloper",
+      "etiqueta":"Volumen operativo"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmMovCtaCte",
+      "etiqueta":"Movimientos de cuenta a la vista"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmsolicitudCtavista",
+      "etiqueta":"Apertura de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmAcuerdos",
+      "etiqueta":"Acuerdos"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmejeclotes",
+      "etiqueta":"Ejecución de lotes"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmEmitirResumenCta",
+      "etiqueta":"Emisión de resúmenes de cuenta"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmCtaVistaReprogramacion",
+      "etiqueta":"Reprogramación de ahorros"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":7,
+      "nombre_menu":"mnuPA_ACREDITA_REPROGRAMACIONES",
+      "etiqueta":"Liberación de reprogramación de ahorros"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmRestricciones",
+      "etiqueta":"Restricciones"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":99,
+      "nombre_menu":"subCuentaCorrienteRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":400,
+      "nombre_menu":"mnufrmLotesCtaVista",
+      "etiqueta":"Ejecución Manual de Lotes "
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorriente",
+      "orden_menu":999,
+      "nombre_menu":"subCuentaCorrientePrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrientePrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLinCtavista",
+      "etiqueta":"Mantenimiento de líneas de cuenta a la vista"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrientePrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCtaCteCapitalDev",
+      "etiqueta":"Ingreso de fechas para la capitalización de devengamientos"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>RptCtasDeudoras",
+      "etiqueta":"Cuentas deudoras"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>rptLotes",
+      "etiqueta":"Lotes"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>ResumenAcuerdos",
+      "etiqueta":"Resumen de acuerdos"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>ListadoDeReprogramaciones",
+      "etiqueta":"Reprogramaciones de ahorros"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":10,
+      "nombre_menu":"<reporte>AnalisisCtaCteProvVenc",
+      "etiqueta":"Análisis de cuenta a la vista de proveedores por vencimiento"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":999,
+      "nombre_menu":"<reporte>rptCuentasADepurar",
+      "etiqueta":"Depuración mensual de Cuentas"
+   },
+   {
+      "nombre_menu_padre":"subCuentaCorrienteRep",
+      "orden_menu":999,
+      "nombre_menu":"<reporte>rptOrdenPagoProv",
+      "etiqueta":"Orden de Pago Proveedores"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmFideicomisomaestro",
+      "etiqueta":"Fidecomisos"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":2,
+      "nombre_menu":"mnuFrmSysFid_fiduciantes",
+      "etiqueta":"Fiduciantes de un fideicomiso"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmSysPrestEmpresaCob",
+      "etiqueta":"Empresa fiduciante"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmFideicomisoActa",
+      "etiqueta":"Actas de retiro de información para fideicomiso"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":99,
+      "nombre_menu":"subFideicomisoRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subFideicomiso",
+      "orden_menu":999,
+      "nombre_menu":"subFideicomisoPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmFideicomisoTipoActa",
+      "etiqueta":"Tipos de acta"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptPresFideicomisoRel",
+      "etiqueta":"Préstamos para fideicomiso"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptFideicomisoDetalleCobranza",
+      "etiqueta":"Detalle de cobranzas"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptFideicomisoResumenCobranza",
+      "etiqueta":"Resumen de cobranzas"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>rptFideicomisoCtasVista",
+      "etiqueta":"Aportantes al fideicomiso"
+   },
+   {
+      "nombre_menu_padre":"subFideicomisoRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>rptFideicomisoCobroSucursal",
+      "etiqueta":"Capital cobrado por sucursal"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienes",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSolicitudGarantia",
+      "etiqueta":"Gestión de garantías"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienes",
+      "orden_menu":99,
+      "nombre_menu":"subGarantiasBienesRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienes",
+      "orden_menu":999,
+      "nombre_menu":"subGarantiasBienesPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienesPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLinGarantia",
+      "etiqueta":"Líneas de garantías y bienes"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienesPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTipoGarantia",
+      "etiqueta":"Tipos de garantía"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienesPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmTipoBien",
+      "etiqueta":"Tipos de bien"
+   },
+   {
+      "nombre_menu_padre":"subGarantiasBienesRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>ListadoInmuebles",
+      "etiqueta":"Bienes inmuebles"
+   },
+   {
+      "nombre_menu_padre":"subListasPrec",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmAsistenteCreaLista",
+      "etiqueta":"Administración de Listas de Precios"
+   },
+   {
+      "nombre_menu_padre":"subListasPrec",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCambioPrecio",
+      "etiqueta":"Cambio de precios por artículo"
+   },
+   {
+      "nombre_menu_padre":"subListasPrec",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmConversionMonedaLista",
+      "etiqueta":"Conversión Automática de Precios por Moneda"
+   },
+   {
+      "nombre_menu_padre":"subListasPrec",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCreacionLista",
+      "etiqueta":"Creación Automática de Listas de Precios"
+   },
+   {
+      "nombre_menu_padre":"subListasPrec",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmPreciosParametros",
+      "etiqueta":"Parámetros de las Listas de Precio"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":10,
+      "nombre_menu":"{Pmnurpt}rptListaDePreciosDesc",
+      "etiqueta":"Lista de Precios (Conformación)"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":20,
+      "nombre_menu":"{Pmnurpt}rptListaPreciosOrdenCod",
+      "etiqueta":"Lista de Precios Ordenada por Código"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":30,
+      "nombre_menu":"{Pmnurpt}rptListaPrecios",
+      "etiqueta":"Lista de Precios Ordenada por Descripción"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":40,
+      "nombre_menu":"{Pmnurpt}rptListaPreciosOrdenFamiliaLinCod",
+      "etiqueta":"Lista de Precios Ordenada por Familia/Línea/Cod"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":50,
+      "nombre_menu":"{Pmnurpt}rptListaPreciosOrdenFamiliaLin",
+      "etiqueta":"Lista de Precios Ordenada Por Familia/Línea/Desc"
+   },
+   {
+      "nombre_menu_padre":"subListasPrecReport",
+      "orden_menu":60,
+      "nombre_menu":"{Pmnurpt}rptListasExistentes",
+      "etiqueta":"Listas Existentes"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteCli",
+      "orden_menu":1,
+      "nombre_menu":"{Pmnurpt}ComposicionSaldosClientes",
+      "etiqueta":"Composición de saldos de clientes"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteCli",
+      "orden_menu":2,
+      "nombre_menu":"{Pmnurpt}CompSaldoClientes",
+      "etiqueta":"Composición de saldos de clientes histórico"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteCli",
+      "orden_menu":5,
+      "nombre_menu":"{Pmnurpt}rptCuentasCorrientesClientesMov",
+      "etiqueta":"Movimientos de cuenta corriente de clientes"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteCli",
+      "orden_menu":10,
+      "nombre_menu":"{Pmnurpt}rptSaldosCuentas",
+      "etiqueta":"Saldos de clientes de cuenta corriente"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteCli",
+      "orden_menu":13,
+      "nombre_menu":"{Pmnurpt}VencimientosClientes",
+      "etiqueta":"Vencimientos de clientes"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":3,
+      "nombre_menu":"{Pmnurpt}ComposicionSaldosProveedores",
+      "etiqueta":"Composición de saldos de proveedores"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":4,
+      "nombre_menu":"{Pmnurpt}CompSaldoProveedores",
+      "etiqueta":"Composición de saldos de proveedores histórico"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":6,
+      "nombre_menu":"{Pmnurpt}rptCuentasCorrientesMov",
+      "etiqueta":"Movimientos de cuentas corrientes de proveedores"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":9,
+      "nombre_menu":"{Pmnurpt}rptListordenpago",
+      "etiqueta":"Ordenes de pago a proveedores"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":12,
+      "nombre_menu":"{Pmnurpt}rptSaldosCuentasProvee",
+      "etiqueta":"Saldos de proveedores de cuentas corrientes"
+   },
+   {
+      "nombre_menu_padre":"subLstCtaCteProv",
+      "orden_menu":14,
+      "nombre_menu":"{Pmnurpt}VencimientosProveedores",
+      "etiqueta":"Vencimientos de proveedores"
+   },
+   {
+      "nombre_menu_padre":"subMora",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSituacionTableroControl",
+      "etiqueta":"Tablero de control para reclamos"
+   },
+   {
+      "nombre_menu_padre":"subMora",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmProcesarCampParam",
+      "etiqueta":"Procesar campaña"
+   },
+   {
+      "nombre_menu_padre":"subMora",
+      "orden_menu":99,
+      "nombre_menu":"subMoraRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subMora",
+      "orden_menu":999,
+      "nombre_menu":"subMoraPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subMoraPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSituacion_Mora",
+      "etiqueta":"Situaciones de mora"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptSituacionesCampaña",
+      "etiqueta":"Situaciones de campaña"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCuotasVencidasPrestamos",
+      "etiqueta":"Carta para deudores"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>repMoraPagoIntegro",
+      "etiqueta":"Mora de préstamos de pago íntegro con tasa adelantada"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>SituacionTramite",
+      "etiqueta":"Trámites de una situación"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>SituacionTramitePaso",
+      "etiqueta":"Pasos para un trámite de una situación"
+   },
+   {
+      "nombre_menu_padre":"subMoraRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>SituacionTramiteRequisito",
+      "etiqueta":"Requisitos para un trámite de una situación"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmarbol",
+      "etiqueta":"Arbol del lugar"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmalquiler",
+      "etiqueta":"Alquiler"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmventasnichos",
+      "etiqueta":"Venta"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmpagomantenimiento",
+      "etiqueta":"Pago de mantenimiento"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmcobroalquiler",
+      "etiqueta":"Cobro de alquiler"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmtransferencianichos",
+      "etiqueta":"Transferencia"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmdatosdelmuerto",
+      "etiqueta":"Datos del fallecido"
+   },
+   {
+      "nombre_menu_padre":"subNichos",
+      "orden_menu":999,
+      "nombre_menu":"subNichosPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmestructuranichos",
+      "etiqueta":"Estructura"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmedificios",
+      "etiqueta":"Edificio"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmpisos",
+      "etiqueta":"Pisos"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmabmpisos",
+      "etiqueta":"ABM de pisos"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmsectores",
+      "etiqueta":"Sectores"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmpasillos",
+      "etiqueta":"Pasillos"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmabmdepositos",
+      "etiqueta":"Depósitos"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmtiposnichos",
+      "etiqueta":"Tipos de nicho"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmmantenimiento",
+      "etiqueta":"Períodos de mantenimiento"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":10,
+      "nombre_menu":"mnufrmpreciosnichos",
+      "etiqueta":"Precios por nicho"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":11,
+      "nombre_menu":"mnufrmpreciotipo",
+      "etiqueta":"Precios por tipo de nicho"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":12,
+      "nombre_menu":"mnufrmgastosfijos",
+      "etiqueta":"Gastos fijos"
+   },
+   {
+      "nombre_menu_padre":"subNichosPrm",
+      "orden_menu":13,
+      "nombre_menu":"mnufrmingresogastosmant",
+      "etiqueta":"Gastos por día"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":0,
+      "nombre_menu":"mnufrmOrdenCompra",
+      "etiqueta":"Orden de compra directa"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":0,
+      "nombre_menu":"subOrdenLicitaRpt",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmConsulta_art",
+      "etiqueta":"Consulta de artículos con entregas pendientes"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmExplorador",
+      "etiqueta":"Explorador de solicitudes"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmHistorial",
+      "etiqueta":"Historial de compras"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmlicitacion",
+      "etiqueta":"Licitación de artículos o servicios"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmSelecAdm",
+      "etiqueta":"Selección administrativa"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicita",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmSelecTecnica",
+      "etiqueta":"Selección técnica"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":1,
+      "nombre_menu":"{Pmnurpt}rptSolicitudesDetalle",
+      "etiqueta":"Detalle de licitaciones y ordenes de compra"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":2,
+      "nombre_menu":"{Pmnurpt}DeudaStockXProveedor",
+      "etiqueta":"Deuda de stock de proveedores"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":3,
+      "nombre_menu":"{Pmnurpt}rptSolicitudes",
+      "etiqueta":"Licitaciones y ordenes de compra"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":4,
+      "nombre_menu":"{Pmnurpt}RepAutorizaciones",
+      "etiqueta":"Listado de solicitudes"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":5,
+      "nombre_menu":"{Pmnurpt}rptSelecTecnica",
+      "etiqueta":"Relevamiento de precios de artículos"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":6,
+      "nombre_menu":"{Pmnurpt}rptSelecTecnicaOrdProv",
+      "etiqueta":"Relevamiento de precios de artículos por proveedor"
+   },
+   {
+      "nombre_menu_padre":"subOrdenLicitaRpt",
+      "orden_menu":7,
+      "nombre_menu":"{Pmnurpt}rptSelecAdmin",
+      "etiqueta":"Selección administrativa de licitaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmIngresoPersona",
+      "etiqueta":"Ingreso de Personas"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmResumenOperatoria",
+      "etiqueta":"Resúmen de operaciones por persona"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCalculoConsumo",
+      "etiqueta":"Cálculo Consumo"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmGrupoEconomico",
+      "etiqueta":"Grupo Económico"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmRelacionInternaPersona",
+      "etiqueta":"Relación de personas y grupos económicos"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmCambioDocumento",
+      "etiqueta":"Cambio de documento"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":99,
+      "nombre_menu":"subPersonasRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":100,
+      "nombre_menu":"subPersonasCli",
+      "etiqueta":"Cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonas",
+      "orden_menu":999,
+      "nombre_menu":"subPersonasPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSituacionesGestion",
+      "etiqueta":"Tablero de situaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmClienteComparacion",
+      "etiqueta":"Comparación"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCriterioGestion",
+      "etiqueta":"Gestión"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmRefinanciacion",
+      "etiqueta":"Refinanciación"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmTasasConcertadas",
+      "etiqueta":"Tasas concertadas"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":100,
+      "nombre_menu":"mnufrmCambioTipoPersona",
+      "etiqueta":"Cambio de tipo y código de cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":100,
+      "nombre_menu":"subPersonasCliCla",
+      "etiqueta":"Clasificación"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCli",
+      "orden_menu":101,
+      "nombre_menu":"subPersonasCliSit",
+      "etiqueta":"Situaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliCla",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmClasificacionGerencia",
+      "etiqueta":"Para gerencia"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliCla",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmClasificacionTecnica",
+      "etiqueta":"Técnica"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliCla",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmClasificacionTecnicaInterna",
+      "etiqueta":"Técnica interna"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliCla",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmClasificacionEstados",
+      "etiqueta":"Por estados"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliCla",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmClasificacionTiempo",
+      "etiqueta":"Por tiempo"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliSit",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSituacionOperatoria",
+      "etiqueta":"Situaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasCliSit",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmSituacionGravedadColores",
+      "etiqueta":"Gravedad por colores"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmtpodoc",
+      "etiqueta":"Tipos de documento"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmPersona_Tipo",
+      "etiqueta":"Tipos de persona"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmtelefono",
+      "etiqueta":"Tipos de teléfono"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmtipoobspers",
+      "etiqueta":"Tipos de observación"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnuFrmEstadoCivil",
+      "etiqueta":"Estado civil"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":8,
+      "nombre_menu":"mnufrmactividad",
+      "etiqueta":"Actividades"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmactividadrubro",
+      "etiqueta":"Rubros y subrubros"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":100,
+      "nombre_menu":"subPersonasPrmGEc",
+      "etiqueta":"Grupos económicos"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrm",
+      "orden_menu":101,
+      "nombre_menu":"subPersonasPrmSit",
+      "etiqueta":"Situaciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrmGEc",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmRelacionTipo",
+      "etiqueta":"Tipos de relación de grupo"
+   },
+   {
+      "nombre_menu_padre":"subPersonasPrmSit",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSituacionDefinicion",
+      "etiqueta":"Tipos de situación"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>PersonasTelefonos",
+      "etiqueta":"Agenda de teléfonos"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>PersonasObservaciones",
+      "etiqueta":"Observaciones de personas"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRep",
+      "orden_menu":100,
+      "nombre_menu":"subPersonasRepCli",
+      "etiqueta":"Cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRep",
+      "orden_menu":101,
+      "nombre_menu":"subPersonasRepInf",
+      "etiqueta":"Informes en hojas pre-impresas rubricadas"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptListadoAltaAsociados",
+      "etiqueta":"Alta de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptListadoAsociados",
+      "etiqueta":"Detalle de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptLibroAsociados",
+      "etiqueta":"Libro de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>GestionCliente",
+      "etiqueta":"Gestión de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>GestionClienteAuditoria",
+      "etiqueta":"Gestión de clilentes para auditoría"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>Informe",
+      "etiqueta":"Informes de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>ListadoSolicitantes",
+      "etiqueta":"Solicitudes de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>GestionClienteCapitales",
+      "etiqueta":"Capitales de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":10,
+      "nombre_menu":"<reporte>GestionClientePrevisiones",
+      "etiqueta":"Previsiones de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":11,
+      "nombre_menu":"<reporte>ListadoSociosDetalle",
+      "etiqueta":"Registro de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":12,
+      "nombre_menu":"<reporte>rptListadoBajaAsociados",
+      "etiqueta":"Baja de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":13,
+      "nombre_menu":"<reporte>rptListadoElecciones",
+      "etiqueta":"Padrón para elecciones"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":14,
+      "nombre_menu":"<reporte>rptListadoTitularesCotitulares",
+      "etiqueta":"Titulares y cotitulares"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":15,
+      "nombre_menu":"<reporte>ListadoActuaciones",
+      "etiqueta":"Actuaciones de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":16,
+      "nombre_menu":"<reporte>ListadoActuacionesPersona",
+      "etiqueta":"Actuaciones por cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":17,
+      "nombre_menu":"<reporte>TasasConcertadas",
+      "etiqueta":"Tasas concertadas"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":18,
+      "nombre_menu":"<reporte>DetalleGestionGarantia",
+      "etiqueta":"Detalle de cartera y garantías"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":19,
+      "nombre_menu":"<reporte>rptComparacionCliente",
+      "etiqueta":"Comparación de deuda"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":21,
+      "nombre_menu":"mnuFrmImpPagareAcuerdo",
+      "etiqueta":"Pagaré de acuerdo"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":22,
+      "nombre_menu":"<reporte>RptGestionCliente",
+      "etiqueta":"Total de operaciones por cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":24,
+      "nombre_menu":"<reporte>rptTotalCapitalesInteresCli",
+      "etiqueta":"Total de capital, intereses y gastos por cliente"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepCli",
+      "orden_menu":999,
+      "nombre_menu":"<reporte>rptSociosADepurar",
+      "etiqueta":"Depuración mensual de socios"
+   },
+   {
+      "nombre_menu_padre":"subPersonasRepInf",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>RegistrosAsociadosRub",
+      "etiqueta":"Registro de clientes"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijo",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmApertura_Plazo_Fijo",
+      "etiqueta":"Solicitud de plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijo",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCancelacionPlazoFijo",
+      "etiqueta":"Cancelación de plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijo",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmPlazoFijoStock",
+      "etiqueta":"Stock de formularios"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijo",
+      "orden_menu":99,
+      "nombre_menu":"subPlazoFijoRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijo",
+      "orden_menu":999,
+      "nombre_menu":"subPlazoFijoPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLineas_Plazo_Fijo",
+      "etiqueta":"Líneas de plazo fijo"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptCarteraPlazoFijoAFecha",
+      "etiqueta":"Cartera de plazo fijo a fecha"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":2,
+      "nombre_menu":"mnurptdevcertificados",
+      "etiqueta":"Devengamiento de plazos fijos"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":3,
+      "nombre_menu":"mnurptdevcertificadosEst",
+      "etiqueta":"Devengamiento de plazos fijos estadístico"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>TasaMediaPlazoFijo",
+      "etiqueta":"Tasa media de plazos fijos"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>TasaMediaPlazoFijoSinSuc",
+      "etiqueta":"Tasa media de plazos fijos por línea"
+   },
+   {
+      "nombre_menu_padre":"subPlazoFijoRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>TasaMediaPlazoFijoMoneda",
+      "etiqueta":"Tasa media de plazos fijos por moneda"
+   },
+   {
+      "nombre_menu_padre":"subPPIPV",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSolicitudValNeg",
+      "etiqueta":"Gestión de préstamos de pago íntegro con prenda de valores"
+   },
+   {
+      "nombre_menu_padre":"subPPIPV",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCobroValNeg",
+      "etiqueta":"Cobro de cuotas"
+   },
+   {
+      "nombre_menu_padre":"subPPIPV",
+      "orden_menu":99,
+      "nombre_menu":"subPPIPVRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subPPIPV",
+      "orden_menu":999,
+      "nombre_menu":"subPPIPVPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmValNegociados",
+      "etiqueta":"Líneas de préstamos de pago integro con prenda de valores"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>repValoresNegGestion",
+      "etiqueta":"Cartera de P.I.C.P.V. para gestión"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>ListCuotasValores",
+      "etiqueta":"Cuotas de P.I.C.P.V"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>ListCuotasValoresAuditoria",
+      "etiqueta":"Cuotas de P.I.C.P.V. para auditoría"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRep",
+      "orden_menu":12,
+      "nombre_menu":"<reporte>rptRecuperoCarteraVal",
+      "etiqueta":"Recupero de cartera de valores"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRep",
+      "orden_menu":100,
+      "nombre_menu":"subPPIPVRepDev",
+      "etiqueta":"Devengamiento"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRepDev",
+      "orden_menu":1,
+      "nombre_menu":"mnurptdevvalorcuota",
+      "etiqueta":"Devengamiento de P.I.C.P.V. por cuota"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRepDev",
+      "orden_menu":2,
+      "nombre_menu":"mnurptdevvalorcuotaest",
+      "etiqueta":"Devengamiento de P.I.C.P.V. por cuota estadístico"
+   },
+   {
+      "nombre_menu_padre":"subPPIPVRepDev",
+      "orden_menu":999,
+      "nombre_menu":"mnurptdevvalnegEst",
+      "etiqueta":"Devengamiento de P.I.C.P.V. por servicio estadístico"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmSolicitudPrestamo",
+      "etiqueta":"Gestión de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmSolicitudLeasing",
+      "etiqueta":"Gestión de leasing"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmPrestamosCuotas",
+      "etiqueta":"Cobro de cuotas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmPrestamosCancela",
+      "etiqueta":"Cancelación de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmCancelacionLeasing",
+      "etiqueta":"Cancelación de leasing"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmCambioTitular",
+      "etiqueta":"Transferencia de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":99,
+      "nombre_menu":"subPrestamosRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":100,
+      "nombre_menu":"subPrestamosCup",
+      "etiqueta":"Administración de cuponera"
+   },
+   {
+      "nombre_menu_padre":"subPrestamos",
+      "orden_menu":999,
+      "nombre_menu":"subPrestamosPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosCup",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCuponeraOrdenEmision",
+      "etiqueta":"Generación de órdenes de impresión"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosCup",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmCuponeraImpOrdEmision",
+      "etiqueta":"Impresión de órdenes"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosCup",
+      "orden_menu":99,
+      "nombre_menu":"subPrestamosCupRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosCupRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptCuponeraProceso",
+      "etiqueta":"Emisión de boletas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmPrestamos",
+      "etiqueta":"Líneas de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmConceptosFactoring",
+      "etiqueta":"Aforos, retenciones y otros para factoring"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmParamConsumo",
+      "etiqueta":"Scoring de consumo"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmParamEdadConsumo",
+      "etiqueta":"Edades para scoring de consumo"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmPonderadorConsum",
+      "etiqueta":"Ponderadores para scoring de consumo"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptPrestamosConVencimientos",
+      "etiqueta":"Cartera de préstamos con vencimientos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>repPagoIntegroGestion",
+      "etiqueta":"Cartera de pago íntegro con tasa adelantada para gestión"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>rptCarteraPresGastosTrib",
+      "etiqueta":"Cuotas de préstamos con tributos y gastos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>ListCuotasPrestamosConTrib",
+      "etiqueta":"Cuotas de préstamos con gastos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>ListCuotasPrestamosAuditoria",
+      "etiqueta":"Cuotas de préstamos para auditoría"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":10,
+      "nombre_menu":"<reporte>rptCuotasGratificadasDetallado",
+      "etiqueta":"Cuotas gratificadas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":13,
+      "nombre_menu":"mnufrmLiqMensualCuotasPres",
+      "etiqueta":"Recibos de cuotas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":14,
+      "nombre_menu":"<reporte>ListPrestamosRelServ",
+      "etiqueta":"Préstamos y servicios"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":16,
+      "nombre_menu":"<reporte>rptInformacionRenovaciones",
+      "etiqueta":"Información para renovaciones"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":16,
+      "nombre_menu":"<reporte>rptPresVendedoresGerentes",
+      "etiqueta":"Resumen de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":17,
+      "nombre_menu":"<reporte>rptListOperacionesImputacion",
+      "etiqueta":"Operaciones con saldo de imputacion"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":17,
+      "nombre_menu":"<reporte>rptRecuperoCartera",
+      "etiqueta":"Recupero de cartera"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":18,
+      "nombre_menu":"<reporte>rptRecuperoCarteraxDía",
+      "etiqueta":"Recupero de cartera por día"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":19,
+      "nombre_menu":"<reporte>rptRecuperoCarteraSituacionDetallado",
+      "etiqueta":"Recupero de cartera mensual detallado"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":20,
+      "nombre_menu":"<reporte>rptRecuperoCarteraSituacion",
+      "etiqueta":"Recupero de cartera por situacion"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":23,
+      "nombre_menu":"mnufrmImpVencCuota",
+      "etiqueta":"Vencimientos de cesión de pagaré hipotecarios"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":24,
+      "nombre_menu":"<reporte>TasaMedia",
+      "etiqueta":"Tasa media de préstamos"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":25,
+      "nombre_menu":"<reporte>TasaMediaSinSuc",
+      "etiqueta":"Tasa media de préstamos por líneas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":26,
+      "nombre_menu":"<reporte>TasaMediaMoneda",
+      "etiqueta":"Tasa media de préstamos por moneda"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":100,
+      "nombre_menu":"subPrestamosRepDev",
+      "etiqueta":"Devengamiento"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":101,
+      "nombre_menu":"subPrestamosRepFac",
+      "etiqueta":"Factoring"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":200,
+      "nombre_menu":"<reporte>PrestamosLiquidados",
+      "etiqueta":"Ayudas Económicas Liquidadas"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":399,
+      "nombre_menu":"<reporte>rptListadoOperFormasCobro",
+      "etiqueta":"Listado de formas de cobro"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":399,
+      "nombre_menu":"<reporte>rptListadoOperFormasPago",
+      "etiqueta":"Listado de formas de pago"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRep",
+      "orden_menu":999,
+      "nombre_menu":"<reporte>rptListadoEscriturar",
+      "etiqueta":"Listado de cuotas vencidas para escriturar"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepDev",
+      "orden_menu":1,
+      "nombre_menu":"mnurptdevprescuotas",
+      "etiqueta":"Devengamiento de préstamos por cuota"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepDev",
+      "orden_menu":2,
+      "nombre_menu":"mnurptdevprescuotasest",
+      "etiqueta":"Devengamiento de préstamos por cuota estadístico"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepDev",
+      "orden_menu":3,
+      "nombre_menu":"mnurptdevprestamos",
+      "etiqueta":"Devengamiento de préstamos por servicio"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepDev",
+      "orden_menu":4,
+      "nombre_menu":"mnurptdevprestamosEst",
+      "etiqueta":"Devengamiento de préstamos por servicio estadístico"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepFac",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptAforosRetenciones",
+      "etiqueta":"Aforos, retenciones y otros para factoring"
+   },
+   {
+      "nombre_menu_padre":"subPrestamosRepFac",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>RptFactoringCuotas",
+      "etiqueta":"Cuotas para factoring"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":1,
+      "nombre_menu":"{Lmnurpt}SaldoPorDepositosFecha",
+      "etiqueta":"Saldos por depósito a fecha"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":3,
+      "nombre_menu":"{Lmnurpt}rptMovimDepositoClases",
+      "etiqueta":"Movimientos por depósito de origen con clases"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":3,
+      "nombre_menu":"{Lmnurpt}rptMovimientosStockSerie",
+      "etiqueta":"Stock de series"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":6,
+      "nombre_menu":"{Lmnurpt}Articulos",
+      "etiqueta":"Reporte de artículos"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":7,
+      "nombre_menu":"{Pmnurpt}ArticulosXAtributos",
+      "etiqueta":"Reporte de artículos por atributos"
+   },
+   {
+      "nombre_menu_padre":"subReportArt",
+      "orden_menu":8,
+      "nombre_menu":"{Lmnurpt}rptInventarioValorizado",
+      "etiqueta":"Stock Valorizado a una fecha"
+   },
+   {
+      "nombre_menu_padre":"subReportesVentas",
+      "orden_menu":1,
+      "nombre_menu":"{Pmnurpt}VentasDeClientes",
+      "etiqueta":"Ventas de clientes"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCambioClave",
+      "etiqueta":"Cambio de clave"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmIngresoGrupo",
+      "etiqueta":"Ingreso de Grupos"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmUsuarioPermisos",
+      "etiqueta":"Permisos de Usuarios"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmFiltroReporte",
+      "etiqueta":"Filtros para reportes"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":99,
+      "nombre_menu":"subSeguridadRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subSeguridad",
+      "orden_menu":999,
+      "nombre_menu":"subSeguridadPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmPoliticasClaves",
+      "etiqueta":"Políticas de contraseñas"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmseguridadcifrado",
+      "etiqueta":"Seteo de claves para el cifrado"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmMenuUsuario",
+      "etiqueta":"Administración de menúes"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptUsuarioMenuHabilitado",
+      "etiqueta":"Permisos asignados"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptSeguridadGrupo",
+      "etiqueta":"Grupos de usuarios"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>UsuarioLog",
+      "etiqueta":"Sesiones de usuarios"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>UsuarioAudit",
+      "etiqueta":"Auditoría de usuarios"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>AuditLoqTransac",
+      "etiqueta":"Auditoría de transacciones"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>rptListadoDeAuditoria",
+      "etiqueta":"Auditoría de tablas"
+   },
+   {
+      "nombre_menu_padre":"subSeguridadRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>LISTADO_ERRORES",
+      "etiqueta":"Auditoría de errores"
+   },
+   {
+      "nombre_menu_padre":"subServicios",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmCobroCuotaServicio",
+      "etiqueta":"Cobro de cuotas"
+   },
+   {
+      "nombre_menu_padre":"subServicios",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmAltaServicio",
+      "etiqueta":"Gestión de servicios"
+   },
+   {
+      "nombre_menu_padre":"subServicios",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmServiciosPagoVtos",
+      "etiqueta":"Pago de vencimientos"
+   },
+   {
+      "nombre_menu_padre":"subServicios",
+      "orden_menu":99,
+      "nombre_menu":"subServiciosRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subServicios",
+      "orden_menu":999,
+      "nombre_menu":"subServiciosPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subServiciosPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLinRelServCuotas",
+      "etiqueta":"Líneas de servicio"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptCarteraServicios",
+      "etiqueta":"Cartera de servicios"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptRecuperoCarteraServiciosDetallado",
+      "etiqueta":"Recupero de cartera de servicios"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptCuotasServicios",
+      "etiqueta":"Detalle de cuotas de servicios"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>rptCobranzasServicios",
+      "etiqueta":"Detalle de cobranzas de servicios"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>rptCobranzasServiciosGrupoAfinidad",
+      "etiqueta":"Detalle de cobranzas de servicios por grupo de afinidad"
+   },
+   {
+      "nombre_menu_padre":"subServiciosRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>rptCuotaAdeudadaServ",
+      "etiqueta":"Clientes con cuotas societarias adeudadas"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmInicioDia",
+      "etiqueta":"Inicio de Sesión"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmBloquear",
+      "etiqueta":"Bloqueo del sistema"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":3,
+      "nombre_menu":"mnuFrmCierreDia",
+      "etiqueta":"Cierre del día"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmAbrirFecha",
+      "etiqueta":"Abrir fecha"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":410,
+      "nombre_menu":"mnufrmImpresionReportes",
+      "etiqueta":"Selección e Impresión de Reportes"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":999,
+      "nombre_menu":"subSistemaPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subSistema",
+      "orden_menu":9999,
+      "nombre_menu":"salir",
+      "etiqueta":"Salir"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmParametros",
+      "etiqueta":"Parámetros del sistema"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmempresa",
+      "etiqueta":"Empresa"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmsucursal",
+      "etiqueta":"Sucursales"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":15,
+      "nombre_menu":"mnuConfigurarCorreo",
+      "etiqueta":"Configurar Servicio de Correo Electrónico"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":100,
+      "nombre_menu":"subSistemaPrmGeo",
+      "etiqueta":"Geográficas"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":101,
+      "nombre_menu":"subSistemaPrmOpe",
+      "etiqueta":"Operatoria"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":102,
+      "nombre_menu":"subSistemaPrmCmp",
+      "etiqueta":"Comprobantes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":103,
+      "nombre_menu":"subSistemaPrmTriGas",
+      "etiqueta":"Tributos y gastos"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":104,
+      "nombre_menu":"subSistemaPrmFin",
+      "etiqueta":"Financieras"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrm",
+      "orden_menu":105,
+      "nombre_menu":"subSistemaPrmGen",
+      "etiqueta":"Generales"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmCmp",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmtipodecomprobante",
+      "etiqueta":"Comprobantes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmCmp",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmComprobantesNumeradores",
+      "etiqueta":"Numeradores"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmCmp",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmCentroEmisor",
+      "etiqueta":"Centro emisor"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmCmp",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmImpresion",
+      "etiqueta":"Impresión de comprobantes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmCmp",
+      "orden_menu":5,
+      "nombre_menu":"mnuFrmImpComprobantes",
+      "etiqueta":"Comprobantes de word"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmmonedas",
+      "etiqueta":"Monedas"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTASAS_TIPO",
+      "etiqueta":"Tasas"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmPrevisionDefinicion",
+      "etiqueta":"Definición de previsiones"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmrutinascalc",
+      "etiqueta":"Rutinas de Cálculo"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmIndices",
+      "etiqueta":"Índices"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmFin",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmRelacionFirmante",
+      "etiqueta":"Relación de firmantes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmDiasInhabiles",
+      "etiqueta":"Dias inhábiles"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmFeriados",
+      "etiqueta":"Feriados"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmServicios",
+      "etiqueta":"Servicios"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":4,
+      "nombre_menu":"mnuRepModificacionEtiquetas",
+      "etiqueta":"Etiquetas de reportes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":5,
+      "nombre_menu":"mnusqlparam",
+      "etiqueta":"Filtrado de impresión"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmEstadosGenerales",
+      "etiqueta":"Estados generales"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":7,
+      "nombre_menu":"mnufrmEstadosDevengamiento",
+      "etiqueta":"Estados de devengamiento"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":9,
+      "nombre_menu":"mnufrmbloqueo",
+      "etiqueta":"Tipos de bloqueo"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":10,
+      "nombre_menu":"mnufrmExpedientes",
+      "etiqueta":"Expedientes"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":11,
+      "nombre_menu":"mnufrmFrecuencias",
+      "etiqueta":"Frecuencias por tiempo"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":12,
+      "nombre_menu":"mnufrmGestionDeTramites",
+      "etiqueta":"Gestión de trámites"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGen",
+      "orden_menu":400,
+      "nombre_menu":"mnufrmImpresionesAuto",
+      "etiqueta":"Impresión Automática"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGeo",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmpais",
+      "etiqueta":"País"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGeo",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmprovincia",
+      "etiqueta":"Provincia"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGeo",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmlocalidad",
+      "etiqueta":"Localidad"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmGeo",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmzonas",
+      "etiqueta":"Zona"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmOpe",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmOperatoria",
+      "etiqueta":"Operatoria"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmOpe",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmAgrup_lineas",
+      "etiqueta":"Agrupación de líneas"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmOpe",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmDestinos",
+      "etiqueta":"Destinos"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmTriGas",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmAdminTributos",
+      "etiqueta":"Administración de tributos"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmTriGas",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTributos",
+      "etiqueta":"Tributos"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmTriGas",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmGastos",
+      "etiqueta":"Gastos"
+   },
+   {
+      "nombre_menu_padre":"subSistemaPrmTriGas",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmTrib_ASPI",
+      "etiqueta":"Números de retención para AFIP"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmMaestroTarjetas",
+      "etiqueta":"Administración de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmComercioTarjeta",
+      "etiqueta":"Comercios adheridos"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmLiqTarjetas",
+      "etiqueta":"Liquidación de comercios"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmTarjAjustes",
+      "etiqueta":"Ajustes"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmTarjPagosResum",
+      "etiqueta":"Pagos de resúmenes"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":6,
+      "nombre_menu":"mnufrmBCRAGeneraSop",
+      "etiqueta":"Genera soporte BCRA"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":99,
+      "nombre_menu":"subTarjetasRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subTarjetas",
+      "orden_menu":999,
+      "nombre_menu":"subTarjetasPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmBCRATasasCargos",
+      "etiqueta":"Líneas de tarjeta"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmTarjetaLimites",
+      "etiqueta":"Límites de importes"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmTarjetaTipoLimites",
+      "etiqueta":"Tipos de límite"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnufrmTarjetaModulos",
+      "etiqueta":"Módulos y límites"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnufrmTarjetasPeriodos",
+      "etiqueta":"Períodos de vencimiento"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>TarjAnticipos",
+      "etiqueta":"Anticipos en efectivo"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>TarjComercios",
+      "etiqueta":"Comercios"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>TarjetasCuentas",
+      "etiqueta":"Cuentas"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>TarjAjustes",
+      "etiqueta":"Ajustes"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>TarjMovimientos",
+      "etiqueta":"Movimientos"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>TarjSaldosCuentas",
+      "etiqueta":"Saldos de cuentas"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>TarjTotalMovim",
+      "etiqueta":"Total de pagos"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>TarjSaldosVtos",
+      "etiqueta":"Vencimientos de saldos"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>rptTarjSaldosxCargos",
+      "etiqueta":"Saldo de cuentas por cargo"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>rptPadronTitularesCta",
+      "etiqueta":"Padrón de titulares de cuenta"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":10,
+      "nombre_menu":"<reporte>TarjControlPagos",
+      "etiqueta":"Control de Pagos a la Fecha"
+   },
+   {
+      "nombre_menu_padre":"subTarjetasRep",
+      "orden_menu":11,
+      "nombre_menu":"<reporte>TarjCuentasABM",
+      "etiqueta":"Altas y Modificaciones de Cuentas"
+   },
+   {
+      "nombre_menu_padre":"subTransacciones",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmAnularTransac",
+      "etiqueta":"Anulación de transacciones"
+   },
+   {
+      "nombre_menu_padre":"subTransacciones",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmGastosARecuperar",
+      "etiqueta":"Gastos a recuperar"
+   },
+   {
+      "nombre_menu_padre":"subTransacciones",
+      "orden_menu":3,
+      "nombre_menu":"mnufrmTributosARecuperar",
+      "etiqueta":"Tributos a recuperar"
+   },
+   {
+      "nombre_menu_padre":"subTransacciones",
+      "orden_menu":99,
+      "nombre_menu":"subTransaccionesRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subTransacciones",
+      "orden_menu":999,
+      "nombre_menu":"subTransaccionesPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnuOperaciones",
+      "etiqueta":"Mantenimiento de operaciones"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>TransaccionesDiarias",
+      "etiqueta":"Transacciones diarias"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>TransaccionesEImpDiariosDet",
+      "etiqueta":"Transacciones diarias detallado"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>TransaccionesDelDia",
+      "etiqueta":"Transacciones diarias por operatoria"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>TransaccionesEImpDiarios",
+      "etiqueta":"Transacciones diarias por operatoria detallado"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>MovimientosDiariosResumido",
+      "etiqueta":"Movimientos diarios resumido"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>rptDetalleTransacciones",
+      "etiqueta":"Detalle de importes de operaciones "
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>rptCantidadMovOper",
+      "etiqueta":"Cantidad de operaciones"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>ParametrosOperaciones",
+      "etiqueta":"Parámetros de operaciones"
+   },
+   {
+      "nombre_menu_padre":"subTransaccionesRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>RepGastosTotalesxSucursal",
+      "etiqueta":"Detalle de gastos"
+   },
+   {
+      "nombre_menu_padre":"subVendedores",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmLiquidacionComisiones",
+      "etiqueta":"Liquidar comisiones de vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedores",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmliquidacioncomisionporfecha",
+      "etiqueta":"Liquidación de vendedores por operatoria"
+   },
+   {
+      "nombre_menu_padre":"subVendedores",
+      "orden_menu":99,
+      "nombre_menu":"subVendedoresRep",
+      "etiqueta":"Reportes"
+   },
+   {
+      "nombre_menu_padre":"subVendedores",
+      "orden_menu":999,
+      "nombre_menu":"subVendedoresPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmServiciosVendedoresComis",
+      "etiqueta":"Comisiones por vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":2,
+      "nombre_menu":"mnufrmGrupoAfinidad",
+      "etiqueta":"Grupos de afinidad"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":3,
+      "nombre_menu":"mnuFrmPaquete",
+      "etiqueta":"Paquetes de producto"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":4,
+      "nombre_menu":"mnuFrmPaquetesGrupo",
+      "etiqueta":"Paquetes de grupo"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":5,
+      "nombre_menu":"mnuFrmCadenas",
+      "etiqueta":"Cadenas"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":6,
+      "nombre_menu":"mnuFrmArmarCadena",
+      "etiqueta":"Armado de cadenas"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresPrm",
+      "orden_menu":7,
+      "nombre_menu":"mnuFrmVendedoresTelem",
+      "etiqueta":"Vendedores por telemárketing"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":1,
+      "nombre_menu":"<reporte>rptPrestamosConVendedores",
+      "etiqueta":"Vendedores con préstamos"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":2,
+      "nombre_menu":"<reporte>rptComisionesVendedoresVigentes",
+      "etiqueta":"Comisiones de vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":3,
+      "nombre_menu":"<reporte>rptRangosVendedoresComision",
+      "etiqueta":"Porcentajes e importes extras por rango"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":4,
+      "nombre_menu":"<reporte>LiquidacionComisiones",
+      "etiqueta":"Liquidación a vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":5,
+      "nombre_menu":"<reporte>rptLiquidacionVendedoresNormal",
+      "etiqueta":"Liquidación normal a vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":6,
+      "nombre_menu":"<reporte>rptLiquidacionVendedoresPlus",
+      "etiqueta":"Liquidación plus a vendedores"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":7,
+      "nombre_menu":"<reporte>rptVendedoresSinCadena",
+      "etiqueta":"Vendedores sin cadena"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":8,
+      "nombre_menu":"<reporte>rptComisionesVendedoresTelemark",
+      "etiqueta":"Vendedores de telemárketing"
+   },
+   {
+      "nombre_menu_padre":"subVendedoresRep",
+      "orden_menu":9,
+      "nombre_menu":"<reporte>ListadoJerarquicoCadenas",
+      "etiqueta":"Vendedores por orden jerárquico"
+   },
+   {
+      "nombre_menu_padre":"subVentaCartera",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmventacartera",
+      "etiqueta":"Solicitud de venta de cartera"
+   },
+   {
+      "nombre_menu_padre":"subVentaCartera",
+      "orden_menu":999,
+      "nombre_menu":"subVentaCarteraPrm",
+      "etiqueta":"Parametrizaciones"
+   },
+   {
+      "nombre_menu_padre":"subVentaCarteraPrm",
+      "orden_menu":1,
+      "nombre_menu":"mnufrmventacarteraoper",
+      "etiqueta":"Operatorias relacionadas para la venta"
+   }
+]

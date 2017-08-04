@@ -1,0 +1,29 @@
+﻿<telerik:RadWindow x:Class="EIV.UI.UserControlBase.View.UserWindowView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" 
+             xmlns:local="clr-namespace:EIV.UI.UserControlBase.View" 
+             telerik:StyleManager.Theme="Summer" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="300" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!--  NewRowPosition="Top" -->
+        <!-- IsSynchronizedWithCurrentItem="True" -->
+        <telerik:RadGridView x:Name="gridView" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Top" Loaded="gridView_Loaded" IsLocalizationLanguageRespected="False"
+                             DataLoading="gridView_DataLoading" DataLoaded="gridView_DataLoaded" RowEditEnded="gridView_RowEditEnded" Deleting="gridView_Deleting" 
+                             CellValidating="gridView_CellValidating" CellEditEnded="gridView_CellEditEnded" CurrentCellChanged="gridView_CurrentCellChanged" CellValidated="gridView_CellValidated"
+                             AutoGenerateColumns="False" CanUserReorderColumns="False" SelectionMode="Extended" ActionOnLostFocus="None"
+                             RowDetailsVisibilityMode="VisibleWhenSelected" RowIndicatorVisibility="Collapsed" IsReadOnly="True">
+        </telerik:RadGridView>
+        <telerik:RadDataPager x:Name="dataPager" Grid.Row="2" PageSize="10" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Bottom"/>
+
+        <telerik:RadDataForm x:Name="popUpDataForm" Visibility="Collapsed"  HorizontalAlignment="Left" Margin="59,73,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</telerik:RadWindow>

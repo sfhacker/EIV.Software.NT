@@ -1,0 +1,17 @@
+﻿<telerik:RadWindow x:Class="EIV.UI.UserControlBase.UserControlDataForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" 
+             telerik:StyleManager.Theme="Vista"
+             xmlns:local="clr-namespace:EIV.UI.UserControlBase"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="400">
+    <Grid>
+        <telerik:RadDataForm x:Name="radDataForm" Visibility="Visible" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                             Loaded="radDataForm_Loaded"
+                             CommandButtonsVisibility="Add,Edit,Delete,Cancel,Commit" EditEnded="radDataForm_EditEnded" DeletedItem="radDataForm_DeletedItem" AddedNewItem="radDataForm_AddedNewItem" AutoGeneratingField="radDataForm_AutoGeneratingField"
+                             />
+    </Grid>
+</telerik:RadWindow>
